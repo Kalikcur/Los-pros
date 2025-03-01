@@ -46,3 +46,22 @@
     <nav>
         <a href="#">Inicio</a> | <a href="#">Sobre mí</a> | <a href="#">Contacto</a>
     </nav>
+    
+    <div class="container">
+        <aside>
+            <h2>Barra Lateral</h2>
+            <p>Información adicional aquí.</p>
+        </aside>
+
+        <section>
+            <h2>Contenido Principal</h2>
+            <p>Aquí va el contenido principal de la página.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>© 2025 Mi Página Web</p>
+    </footer>
+
+</body>
+</html>
